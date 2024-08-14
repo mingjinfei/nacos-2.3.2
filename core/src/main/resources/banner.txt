@@ -1,0 +1,16 @@
+
+         ,--.
+       ,--.'|
+   ,--,:  : |                                           Nacos ${application.version}
+,`--.'`|  ' :                       ,---.               Running in ${nacos.mode} mode, ${nacos.function.mode} function modules
+|   :  :  | |                      '   ,'\   .--.--.    Port: ${server.port}
+:   |   \ | :  ,--.--.     ,---.  /   /   | /  /    '   Pid: ${pid}
+|   : '  '; | /       \   /     \.   ; ,. :|  :  /`./   Console: https://${nacos.local.ip}:${server.port}${server.servlet.contextPath}/index.html
+|   : '  '; | /       \   /     \.   ; ,. :|  :  /`./   Console: https://nacos.foobar.com:${server.port}${server.servlet.contextPath}/index.html
+'   ' ;.    ;.--.  .-. | /    / ''   | |: :|  :  ;_
+|   | | \   | \__\/: . ..    ' / '   | .; : \  \    `.      https://nacos.io
+'   : |  ; .' ," .--.; |'   ; :__|   :    |  `----.   \
+|   | '`--'  /  /  ,.  |'   | '.'|\   \  /  /  /`--'  /
+'   : |     ;  :   .'   \   :    : `----'  '--'.     /
+;   |.'     |  ,     .-./\   \  /            `--'---'
+'---'        `--`---'     `----'
